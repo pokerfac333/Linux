@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/den-hrebnov-777503184/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/344/bash.png" alt="asd" height="100" width="100" /></a>
+<a target="blank"><img align="center" src="https://img.icons8.com/plasticine/344/bash.png" alt="Shell" height="100" /></a>
 </p>
 
 <h1 align="center">This script is for parsing file 💻</h1>
