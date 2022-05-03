@@ -5,7 +5,7 @@
 <h1 align="center">This script is for parsing file 💻</h1>
 
 ## 🟢 What the script can do? :
->✅ Takes a named argument -f or --filename
+>✅ Takes a named argument **-f** or **--filename**
 
 >✅ The script terminates if any of the commands returns an error
 
@@ -22,15 +22,26 @@
 ---
 ## 🟢 How to run the script? :
 
->➡️ 
+1.➡️ Clone the repository .
+
+```sh
+git clone https://github.com/pokerfac333/Linux.git
 ```
 
+2.➡️ Navigate to the desired directory
+
+```sh
+cd ./Linux/scripts/parsing
 ```
 
->➡️ 
+3.➡️ Make Bash Script Executable
 
->➡️ 
+```sh
+chmod +x parsing_file.sh
+```
 
->➡️ 
+4.➡️ Run the script from the **root** or with **sudo**
 
->➡️ 
+```sh
+./parsing_file.sh -f usersfile.csv
+```
